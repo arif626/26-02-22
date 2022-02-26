@@ -337,7 +337,7 @@ http://103.166.253.222/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="BDIX ALL", Sony Six HD 
 http://103.170.140.8/hls/sonysix.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX ALL", Star Sports 1 HD 
-http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/83997 
+http://45.127.244.7:8080/hls/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX ALL", Star Sports 2 HD 
 http://103.166.253.222:80/hls/select2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 1 HD 
