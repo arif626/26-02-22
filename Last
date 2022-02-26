@@ -221,4 +221,36 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6MLjY6.png" group-title="BDIX ALL", Bollywood Premier 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8 
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8 
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/10/Maha-movie.png" group-title="BDIX ALL", Maha Movie 
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8 
+#EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/10/Maha-movie.png" group-title="BDIX ALL", Maha Movie 
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="BDIX ALL", Dabang TV 
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="BDIX ALL", Manoranjan Movies 
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="BDIX ALL", Manaranjon TV 
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="BDIX ALL", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="BDIX ALL", Masti TV 
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="BDIX ALL", Hungama Digital (Hungama) 
+https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="BDIX ALL", Sony MAX (pk)
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="BDIX ALL", Sony Max 2 
+http://208.86.19.21/730.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="BDIX ALL", Sony Max HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX ALL", Zee Cinema 
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX ALL", Zee Cinema HD 
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="BDIX ALL", Zee Action 
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="BDIX ALL", Zee Bollywood 
+https://cutt.ly/ZeeBolly 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="BDIX ALL", Star GolD HD 
+http://208.86.19.21/717.stream/index.m3u8
