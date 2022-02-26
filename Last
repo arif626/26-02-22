@@ -255,3 +255,35 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 https://cutt.ly/ZeeBolly 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="BDIX ALL", Star GolD HD 
 http://208.86.19.21/717.stream/index.m3u8
+http://103.153.39.36:8000/play/a012 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="BDIX ALL", & Pictures SD 
+https://nayeem-parvez.gq/zee5.php?c=tvpictureshd 
+#EXTINF:-1 tvg-logo="nnn" group-title="BDIX ALL", & Explore HD 
+https://ranapk.tk/&_Explore.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="BDIX ALL", Colors Cineplex HD 
+https://cutt.ly/ColorsCine 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" group-title="BDIX ALL", Sony Pal 
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6626/index.m3u8 
+https://cutt.ly/SONYPAL 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="BDIX ALL", Sony Sab 
+https://cutt.ly/SonySab 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="BDIX ALL", SONY HD 
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="BDIX ALL", Colors HD 
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="BDIX ALL", ZEE TV HD (pk) 
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="BDIX ALL", Star Plus HD 
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="BDIX ALL", Star Bharat HD 
+https://ranapk.tk/Star_Bharat_Pk 
+#EXTINF:-1 tvg-logo="New Logo" group-title="BDIX ALL", BBo HD 
+https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BDIX ALL", Star Jalsha HD 
+http://103.166.253.222/hls/starjalsha.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BDIX ALL", Jalsha Movies HD 
+http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/198917 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BDIX ALL", Jalsha Movies HD 
+http://103.170.140.8/hls/jalshamovies.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BDIX ALL", Star Jalsha 
+https://ranapk.tk/Star_Jalsha.m3u8
