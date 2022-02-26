@@ -364,3 +364,30 @@ http://dream8k.pro/live/232323/232323/260994.m3u8
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="BDIX ALL", beiN Sports 2 
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="BDIX ALL", beiN Premium 1 
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8? 
+#EXTINF:-1 tvg-logo="Logo N/a" group-title="BDIX ALL", beiN Sports HD 
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="BDIX ALL", Abu Dhabi Sports 1 
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="BDIX ALL", Abu Dhabi Sports 2 
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BDIX ALL", Dubai Sports 1 
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1 
+#EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="BDIX ALL", FOX Sports News HD (akamai) 
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8 
+#EXTINF:-1 tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" group-title="BDIX ALL", Red Bull TV Sports (akamai) 
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="BDIX ALL", Cartoon Network RU 
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+
+*****************************************Sports Live*******************************************
+
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/photo/63040108.cms" group-title="SPORTS LIVE(2022)", PSL LIVE 
+https://ranapk.tk/PSL_LIVE_BY_RANAPK.M3U8 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/508-5088436_bangladesh-premier-league-logo-png-transparent-png.png" group-title="SPORTS LIVE(2022)", BPL Live 
+https://ranapk.tk/BPL-LIVE-BYPK.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", TOTAL SPORTS 
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", CRICKET LIVE 
+https://ib.qqkkqqk.com/live/ch_5.m3u8
