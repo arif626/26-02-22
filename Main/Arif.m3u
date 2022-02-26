@@ -58,7 +58,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="Bangladeshi",29.News 24 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8 
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="Bangladeshi",30.NTV 
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8 
+ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="Bangladeshi",31.RTV 
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8 
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="Bangladeshi",32.Sangsad TV 
@@ -202,7 +202,7 @@ http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="BDIX ALL", Ekushey TV 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="BDIX ALL", NTV 
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8 
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="BDIX ALL", RTV BD 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/shangsadbangladesh.jpg" group-title="BDIX ALL", Sangsad Bangladesh (BDIX6) 
@@ -282,7 +282,7 @@ https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BDIX ALL", Star Jalsha HD 
 http://103.166.253.222/hls/starjalsha.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BDIX ALL", Jalsha Movies HD 
-http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/198917 
+http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BDIX ALL", Jalsha Movies HD 
 http://103.170.140.8/hls/jalshamovies.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BDIX ALL", Star Jalsha 
@@ -291,9 +291,11 @@ https://ranapk.tk/Star_Jalsha.m3u8
 https://ranapk.tk/Zee_Bangla_HD 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BDIX ALL", Zee Bangla HD 
 http://103.170.140.8/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema 
+http://103.170.140.8/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="BDIX ALL", Sun Bangla 
 https://live.durbinlive.com/hls/sunbangla.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BDIX ALL", Sony Aath 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BDIX ALL", Sony Aath (BDIX)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BDIX ALL", Sony Aath 
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8 
@@ -330,8 +332,8 @@ https://cutt.ly/FOX501
 http://45.127.244.7:8080/hls/channel4.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="BDIX ALL", Sony Ten 2 HD 
 http://45.127.244.7:8080/hls/channel5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" group-title="BDIX ALL", Sony Ten 3 HD 
-https://ranapk.tk/Ten3_HD_PK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" group-title="BDIX ALL", Sony Ten 3 HD
+http://103.166.253.222/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="BDIX ALL", Sony Six HD 
 http://103.170.140.8/hls/sonysix.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX ALL", Star Sports 1 HD 
@@ -379,7 +381,22 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" group-title="BDIX ALL", Red Bull TV Sports (akamai) 
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="BDIX ALL", Cartoon Network RU 
-http://iptv.prosto.tv:7000/ch207/video.m3u8
+http://iptv.prosto.tv:7000/ch207/video.m3u8 
+#EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="BDIX ALL", Disney Channel 
+http://103.153.39.36:8000/play/a01y 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="BDIX ALL", Discovery Kids Hindi 
+http://103.153.39.36:8000/play/a024 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="BDIX ALL", Boomerang 
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="BDIX ALL", Sonic Nickeloden 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="BDIX ALL", Pogo 
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="BDIX ALL", Nick HD+ 
+http://180.178.130.180:8000/play/a047/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="BDIX ALL", Nick Junior Hindi 
+http://45.6.4.50:50601/Nick_Junior/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="BDIX ALL", Bangla Kids 
+http://14.199.164.20:4001/play/a0m1/index.m3u8
 
 *****************************************Sports Live*******************************************
 
