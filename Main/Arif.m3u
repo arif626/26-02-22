@@ -354,11 +354,11 @@ http://103.170.140.8/hls/select2.m3u8
 http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="BDIX ALL", Willow HD 
 http://dream8k.pro/live/232323/232323/260994.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="BDIX ALL", Super Sports 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="BDIX ALL", Super Sports 1 HD
+http://45.127.244.7:8080/hls/channel9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="BDIX ALL", Super Sports 2 HD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="BDIX ALL", Super Sports 2 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="BDIX ALL", Super Sports 3 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="BDIX ALL", Super Sports 3 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="BDIX ALL", Super Sports 5 
 
