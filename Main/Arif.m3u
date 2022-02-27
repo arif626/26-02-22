@@ -106,7 +106,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="BDIX ALL", Bijoy TV 
 https://rhridoy136.shortcm.li/bijoytv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", National Geography HD 
-https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8 
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Discovery Giallo HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BDIX ALL", Travel XP HD Bangla 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="BDIX ALL", 71 TV 
@@ -120,7 +122,7 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="BDIX ALL", Independent TV 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BDIX ALL", Maasranga HD
-
+EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", National Geography HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="BDIX ALL", Deshe Bedeshe 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8 
 #EXTINF:-1 tvg-logo="New Logo" group-title="BDIX ALL", Can Bangla 
