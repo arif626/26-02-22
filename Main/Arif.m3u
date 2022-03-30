@@ -582,11 +582,11 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 *****************************************Sports Live*******************************************
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="SPORTS LIVE(2022", Live Sports 7 (Temporary) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022", Live Sports 7 (Temporary) 
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="SPORTS LIVE(2022", Live Sports 8 (Temporary) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022", Live Sports 8 (Temporary) 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/photo/63040108.cms" group-title="SPORTS LIVE(2022)", PSL LIVE 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", IPL LIVE 
 https://ranapk.tk/PSL_LIVE_BY_RANAPK.M3U8 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS LIVE(2022)", IPL Live 
 http://diokz91u21fy1.cloudfront.net/iplch1/2022/master/360/20220330.m3u8 
