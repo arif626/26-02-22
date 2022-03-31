@@ -731,7 +731,7 @@ http://103.149.130.122:8089/76/index.m3u8
 #EXTINF:-1 group-title="Dish TV",Sony MAX
 http://103.149.130.122:8089/77/index.m3u8
 #EXTINF:-1 group-title="Dish TV",79
-http://103.149.130.122:8089/79/index.m3u8
+http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 group-title="Dish TV",BTV World
 http://103.149.130.122:8089/84/index.m3u8
 #EXTINF:-1 group-title="Dish TV",DW News
