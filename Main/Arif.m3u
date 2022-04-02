@@ -606,7 +606,7 @@ http://103.149.130.122:8089/3/index.m3u8
 http://103.149.130.122:8089/4/index.m3u8
 #EXTINF:-1 group-title="Dish TV",Channel 24
 http://103.149.130.122:8089/5/index.m3u8
-#EXTINF:-1 group-title="Dish TV",6
+#EXTINF:-1 group-title="Dish TV", Channel I
 http://103.149.130.122:8089/6/index.m3u8
 #EXTINF:-1 group-title="Dish TV",DBC News
 http://103.149.130.122:8089/7/index.m3u8
@@ -654,13 +654,13 @@ http://103.149.130.122:8089/29/index.m3u8
 http://103.149.130.122:8089/30/index.m3u8
 #EXTINF:-1 group-title="Dish TV",31
 http://103.149.130.122:8089/31/index.m3u8
-#EXTINF:-1 group-title="Dish TV",32
+#EXTINF:-1 group-title="Dish TV" Akash AAhat
 http://103.149.130.122:8089/32/index.m3u8
 #EXTINF:-1 group-title="Dish TV",Sony ATT
 http://103.149.130.122:8089/33/index.m3u8
 #EXTINF:-1 group-title="Dish TV",ZEE Bangla
 http://103.149.130.122:8089/34/index.m3u8
-#EXTINF:-1 group-title="Dish TV",35
+#EXTINF:-1 group-title="Dish TV", Net Geo Wild
 http://103.149.130.122:8089/35/index.m3u8
 #EXTINF:-1 group-title="Dish TV",Sony SAB
 http://103.149.130.122:8089/36/index.m3u8
@@ -698,7 +698,7 @@ http://103.149.130.122:8089/54/index.m3u8
 http://103.149.130.122:8089/55/index.m3u8
 #EXTINF:-1 group-title="Dish TV",MY-TV
 http://103.149.130.122:8089/56/index.m3u8
-#EXTINF:-1 group-title="Dish TV",58
+#EXTINF:-1 group-title="Dish TV", Gaan Bangla
 http://103.149.130.122:8089/58/index.m3u8
 #EXTINF:-1 group-title="Dish TV",Nagorik TV
 http://103.149.130.122:8089/59/index.m3u8
@@ -722,7 +722,7 @@ http://103.149.130.122:8089/70/index.m3u8
 http://103.149.130.122:8089/71/index.m3u8
 #EXTINF:-1 group-title="Dish TV",72
 http://103.149.130.122:8089/72/index.m3u8
-#EXTINF:-1 group-title="Dish TV",73
+#EXTINF:-1 group-title="Dish TV", Ptv Sports
 http://103.149.130.122:8089/73/index.m3u8
 #EXTINF:-1 group-title="Dish TV",And TV
 http://103.149.130.122:8089/74/index.m3u8
@@ -730,7 +730,7 @@ http://103.149.130.122:8089/74/index.m3u8
 http://103.149.130.122:8089/76/index.m3u8
 #EXTINF:-1 group-title="Dish TV",Sony MAX
 http://103.149.130.122:8089/77/index.m3u8
-#EXTINF:-1 group-title="Dish TV",79
+#EXTINF:-1 group-title="Dish TV", Sony Max Hd
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 group-title="Dish TV",BTV World
 http://103.149.130.122:8089/84/index.m3u8
