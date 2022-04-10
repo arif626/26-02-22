@@ -36,7 +36,7 @@ https://somoy.appv.jagobd.com/somoy/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="Bangladeshi",18.Duronto TV 
 http://td.chowdhury-shaheb.com/live/duranta/chunks.m3u8
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="Bangladeshi",19.Ekattor
-http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
+http://103.127.92.38:8080/live/ajob/baksho/28.m3u8
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="Bangladeshi",20.Ekushey TV 
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8 
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="Bangladeshi",21.Gaan Bangla HD 
