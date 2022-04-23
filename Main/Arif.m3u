@@ -718,26 +718,28 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (BDIX2)
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX8)
-http://172.16.50.250:8081/main/mystream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX7)
-http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 (BDIX7) 
+http://12.1.1.1:8082/Local-Sports/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX)
-http://103.135.133.21/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX8) 
+http://172.16.50.250:8081/main/mystream/chunks.m3u8 
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (Temporary)
-http://178.218.196.218:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX7) 
+http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8 
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary)
-http://174.138.19.208/live/CSKvsSRH.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - SKNet) 
+http://103.135.133.3:8080/hls/stream3.m3u8 
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary)
-http://tanish-sharma.cf/AllLiveSportsLinks/starsports1080p.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX - Accessnet) 
+http://stream.accessnetbd.com/hls/sky12.m3u8 
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 9 (temporary)
-http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX - TVN) 
+http://103.99.249.141/live/tsports/chunks.m3u8 
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary) 
+http://89.187.162.109/STARSPORTS1HINDIHD/index.m3u8 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary) 
+http://stariptv.org:8080/live/nour2020/123456/148521.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
