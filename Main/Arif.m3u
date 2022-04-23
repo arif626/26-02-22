@@ -586,14 +586,6 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022", Live Sports 8 (Temporary) 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", IPL LIVE 
-https://ranapk.tk/PSL_LIVE_BY_RANAPK.M3U8 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS LIVE(2022)", IPL Live 
-http://diokz91u21fy1.cloudfront.net/iplch1/2022/master/360/20220330.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", TOTAL SPORTS 
-http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", CRICKET LIVE 
-http://flussonicusa.bdcabletv.com/PCPSCEDAQt/ou0mthW/868
 
 
 ******************************* TEST *******
@@ -771,8 +763,6 @@ https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX1)
 http://45.127.244.7:8080/hls/channel2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX3)
-http://172.27.27.3:8088/hls/01_Gazitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV (BDIX19)
 https://liv-bd.sonyplex.net/MDE0GIDU6R/gtv.stream/chunks.m3u8
@@ -1500,6 +1490,10 @@ http://tv2.ebox.live:8080/live/colors.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png"  group-title="English Movies",Lotus Macau (BDIX2)
 http://tv2.ebox.live:8080/live/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-titl="English Movies",Star Movies HD  
+http://172.27.27.3:8088/hls/01_Gazitv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332"  group-title="Hindi Music",9XM (BDIX12)
 http://103.78.255.178:8080/9xm/index.m3u8
