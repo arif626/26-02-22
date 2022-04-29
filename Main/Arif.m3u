@@ -616,7 +616,77 @@ http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/glTff5A.png",Maasranga TV 
 http://tv2.ebox.live:8080/live/maasranga.m3u8 
 #EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/P9wsfEt.png",GTV HD 
-http://172.16.215.142:8080/Gazi-TV/tracks-v1a1/mono.m3u8 
+http://172.16.215.142:8080/Gazi-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (BDIX1) 
+http://45.127.244.7:8080/hls/channel12.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD (BDIX3) 
+http://172.27.27.3:8088/hls/10_StarJalsha.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD (BDIX7) 
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD (BDIX14) 
+http://103.55.144.46/hls/starjalsha.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD (BDIX- SKnet) 
+http://103.135.133.3:8080/hls/stream1.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (str) 
+http://89.187.162.109/STARJALSHA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD (BDIX2) 
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Indian Bangla",Zee Bangla (BDIX1) 
+http://45.127.244.7:8080/hls/channel10.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Indian Bangla",Zee Bangla HD (BDIX3) 
+http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Indian Bangla",Zee Bangla HD (BDIX2) 
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Indian Bangla",Zee Bangla HD (BDIX7) 
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Indian Bangla",Zee Bangla HD (BDIX14) 
+http://103.55.144.46/hls/zeebanglahd.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Indian Bangla",Zee Bangla HD (str) 
+http://str24.l9574.com:80/615.stream/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian Bangla",Zee Bangla Cinema (BDIX1) 
+http://45.127.244.7:8080/hls/channel11.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian Bangla",Zee Bangla Cinema (BDIX2) 
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath (BDIX14) 
+http://103.55.144.46/hls/Sony_Aath.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath (BDIX7) 
+http://stream.amrbd.com:8082/Sonyaath/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath 
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/colorsbangla.png" group-title="Indian Bangla",Colors Bangla (BDIX2) 
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/colorsbangla.png" group-title="Indian Bangla",Colors Bangla (str) 
+http://str24.l9574.com/616.stream/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/colorsbangla.png" group-title="Indian Bangla",Colors Bangla (akamai) 
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/jalshamovies.png" group-title="Indian Bangla", Star Jalsha Movies (BDIX1) 
+http://45.127.244.7:8080/hls/channel13.m3u8 
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/jalshamovies.png" group-title="Indian Bangla", Star Jalsha Movies (BDIX2) 
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/JUmzuAg.png",StarJalsha HD 
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/sVK7liT.png",ZeeBangla HD 
