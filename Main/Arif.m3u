@@ -521,9 +521,9 @@ http://103.167.190.250/hls/select2.m3u8
 http://103.166.253.222:80/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 2 HD 
 http://103.170.140.8/hls/select2.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL" PTV Sports 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", PTV Sports 
 http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL" TEN Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", TEN Sports
 http://103.167.190.250/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="BDIX ALL", Willow HD 
 http://dream8k.pro/live/232323/232323/260994.m3u8
