@@ -420,20 +420,19 @@ http://103.153.39.36:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX ALL", Zee Cinema 
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX ALL", Zee Cinema HD 
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8 
+http://103.167.190.250/hls/zeecinemahd.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="BDIX ALL", Zee Action 
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="BDIX ALL", Zee Bollywood 
 https://cutt.ly/ZeeBolly 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="BDIX ALL", Star GolD HD 
-http://208.86.19.21/717.stream/index.m3u8
-http://103.153.39.36:8000/play/a012 
+http://103.167.190.250/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="BDIX ALL", & Pictures SD 
-https://nayeem-parvez.gq/zee5.php?c=tvpictureshd 
+http://103.167.190.250/hls/andpictures.m3u8 
 #EXTINF:-1 tvg-logo="nnn" group-title="BDIX ALL", & Explore HD 
 https://ranapk.tk/&_Explore.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="BDIX ALL", Colors Cineplex HD 
-https://cutt.ly/ColorsCine 
+http://103.167.190.250/hls/colorscineplex.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" group-title="BDIX ALL", Sony Pal 
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6626/index.m3u8 
 https://cutt.ly/SONYPAL 
@@ -452,11 +451,11 @@ https://ranapk.tk/Star_Bharat_Pk
 #EXTINF:-1 tvg-logo="New Logo" group-title="BDIX ALL", BBo HD 
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BDIX ALL", Star Jalsha HD 
-http://flussonicusa.bdcabletv.com/PCPSCEDAQt/ou0mthW/857 
+http://103.167.190.250/hls/starjalsha.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BDIX ALL", Jalsha Movies HD 
 http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BDIX ALL", Jalsha Movies HD (BDIX)
-http://103.170.140.8/hls/jalshamovies.m3u8 
+http://103.167.190.250/hls/jalshamovies.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BDIX ALL", Star Jalsha 
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BDIX ALL", Zee Bangla
@@ -464,9 +463,9 @@ http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BDIX ALL", Zee Bangla HD 
 http://str24.l9574.com:80/615.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BDIX ALL", Zee Bangla Cinema 
-http://alllivesportslinks.myftp.biz/hls/zee-bangla-cinema.m3u8
+http://103.167.190.250/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="BDIX ALL", Sun Bangla 
-https://live.durbinlive.com/hls/sunbangla.m3u8 
+http://103.167.190.250/hls/sunbangla.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BDIX ALL", Sony Aath (BDIX)
 http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BDIX ALL", Sony Aath 
@@ -501,29 +500,31 @@ http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png/revision/latest/scale-to-width-down/250?cb=20170407112832" group-title="BDIX ALL", FOX 501 HD 
 https://cutt.ly/FOX501
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="BDIX ALL", Sony Ten 1 HD 
-http://alllivesportslinks.myftp.biz/hls/sonyten1.m3u8 
+http://103.167.190.250/hls/sonyten1.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="BDIX ALL", Sony Ten 2 HD 
-http://alllivesportslinks.myftp.biz/hls/sonyten2.m3u8
+http://103.167.190.250/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" group-title="BDIX ALL", Sony Ten 3 HD
-http://alllivesportslinks.myftp.biz/hls/sonyten3.m3u8
+http://103.167.190.250/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="BDIX ALL", Sony Six HD 
-http://alllivesportslinks.myftp.biz/hls/sonysix.m3u8 
+http://103.167.190.250/hls/sonysix.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX ALL", Star Sports 1 (BDIX) 
-http://alllivesportslinks.myftp.biz/hls/stersports1hd.m3u8
+http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX ALL", Star Sports 2 HD 
-http://alllivesportslinks.myftp.biz/hls/starsports2.m3u8 
+http://103.167.190.250/hls/starsports2.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 1 HD 
-http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 1 HD 
+http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 1 HD2
 http://103.170.140.8/hls/Star_Sport_Select1HD.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 2 HD 
-http://live.flixhub.net/hls/select2.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 2 HD 
+http://103.167.190.250/hls/select2.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 2 HD2 
 http://103.166.253.222:80/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Star Sports Select 2 HD 
 http://103.170.140.8/hls/select2.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL", Ten Sports 
-http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL" PTV Sports 
+http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="BDIX ALL" TEN Sports
+http://103.167.190.250/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="BDIX ALL", Willow HD 
 http://dream8k.pro/live/232323/232323/260994.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="BDIX ALL", Super Sports 1 HD
