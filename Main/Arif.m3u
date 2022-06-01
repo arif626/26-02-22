@@ -587,8 +587,9 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 8 (Temporary) 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022", Sony Live (Temporary) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 9 (Temporary)
 https://sonydaimenew.akamaized.net/hls/live/2005444/DAI08V2/master.m3u8?hdnea=st=1654105957~exp=1654106257~acl*~id=944b1155-9a73-4ad3-b914-e49fb7a11f99~hmac=c257db0ba22c21986bc3de300465ae2053b4e203ff63d88e9be8680aaaf555e3&originpath=/linear/hls/pb/event/wchc-yRfS6Oq1EK97fcrIg/stream/72584280-5253-4fa0-8153-7baf8be38a77:SIN/master.m3u8
+
 
 
 ******************************* TEST *******
