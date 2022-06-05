@@ -586,10 +586,11 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 7 (Temporary) 
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 8 (Temporary) 
-https://football-localiptv.ml/ArgentinavsEstonia.m3u8
+https://football-localiptv.ml/UEFA_NATIONS_LEAGUE/LIVE_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 9 (Temporary)
 http://185.145.43.244:8000/play/a009/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 9 (Temporary)
+https://www.live-localiptv.ml/p/argentina-vs-estonia.html
 
 ******************************* TEST *******
 #EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/wcc4Prw.png",Jamuna TV HD 
