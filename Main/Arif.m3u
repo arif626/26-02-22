@@ -593,34 +593,6 @@ http://185.145.43.244:8000/play/a009/index.m3u8
 https://tanish-sharma.tk/WWE/SONYLIV.m3u8
 
 ******************************* TEST *******
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/wcc4Prw.png",Jamuna TV HD 
-http://tv2.ebox.live:8080/live/ex-jamuna.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/Z75Nfzh.png",Bangla Vission 
-http://tv2.ebox.live:8080/live/banae3.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/1jcmkPa.png",ATN Bangla 
-http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/0VY5lgy.png",Channel I 
-http://tv2.ebox.live:8080/live/chi.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/4uLmo8j.png",RTV 
-http://tv2.ebox.live:8080/live/rtv.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/Qw3nowa.png",Channel 24 
-http://tv2.ebox.live:8080/live/ch24youtube.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/qSdqXsS.png",Somoy TV 
-https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/8dCVaAD.png",Boishakhi TV 
-http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/u3Quz9I.png",News24 HD 
-http://tv2.ebox.live:8080/live/ex-news24-20.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/doRb9Zc.jpg",DBC News 
-http://tv2.ebox.live:8080/live/dbc.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/GFGN4Jk.png",ATN News 
-http://tv2.ebox.live:8080/live/ex-atnae.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/miQf7F7.png",GaanBangla 
-http://tv2.ebox.live:8080/live/ex-gan.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/glTff5A.png",Maasranga TV 
-http://tv2.ebox.live:8080/live/maasranga.m3u8 
-#EXTINF:-1 group-title="BD" tvg-logo="https://i.imgur.com/P9wsfEt.png",GTV HD 
-http://172.16.215.142:8080/Gazi-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (BDIX1) 
 http://45.127.244.7:8080/hls/channel12.m3u8 
