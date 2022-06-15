@@ -536,57 +536,7 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 
 ***********************TEST 2 ********************
 
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (BDIX2)
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 1 (BDIX7) 
-http://12.1.1.1:8082/Local-Sports/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 2 (BDIX8) 
-http://172.16.50.250:8081/main/mystream/chunks.m3u8 
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 3 (BDIX7) 
-http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8 
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 4 (BDIX - SKNet) 
-http://103.135.133.3:8080/hls/stream3.m3u8 
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 5 (BDIX - Accessnet) 
-http://stream.accessnetbd.com/hls/sky12.m3u8 
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 6 (BDIX - TVN) 
-http://103.99.249.141/live/tsports/chunks.m3u8 
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 7 (temporary) 
-http://89.187.162.109/STARSPORTS1HINDIHD/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports 8 (temporary) 
-http://stariptv.org:8080/live/nour2020/123456/148521.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 1
-http://tv2.ebox.live:8080/live/channel9.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 2
-https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/02.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 3
-http://loga.ultratotal.ml/xls/ligota/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 4
-https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 5
-https://sami-rian.ml/Join-us-on-telegram_@AllLiveSportsLinks/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 6
-https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 7
-https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xt1nea2.png" group-title="Live Football", Live Football 8
-https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",Gazi TV  (BDIX1)
 http://45.127.244.7:8080/hls/channel2.m3u8
