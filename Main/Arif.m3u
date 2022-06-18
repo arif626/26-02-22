@@ -372,7 +372,7 @@ http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 3 (Temporary)
 http://185.145.43.244:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 4 (Temporary)
-http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+https://cricket-localiptv.ml/BANvsWI/ENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 5 (Temporary)
 https://edge.playdj.tv/hls/video%2Be62a3496-d415-4637-be3d-e7d1d4111f6d/1_0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 6 (Temporary)
