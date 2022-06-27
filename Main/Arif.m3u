@@ -370,13 +370,18 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 2 (Temporary) 
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 3 (Temporary)
-http://185.145.43.244:8000/play/a009/index.m3u8
+http://103.102.27.172:6464/Channel-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 4 (Temporary)
 https://cricket-localiptv.ml/BANvsWI/ENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 5 (Temporary)
 https://ridx7.1.mywebsites.link/cdn/sports-free-31/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 6 (Temporary)
 https://ridx7.1.mywebsites.link/cdn/sports-free-31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 7 (Temporary)
+http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 8 (Temporary)
+http://113.212.111.246:8080/hls/col2.m3u8
+
 
 
 
