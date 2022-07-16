@@ -370,7 +370,7 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 2 (Temporary) 
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 3 (Temporary)
-http://103.102.27.172:6464/Channel-2/index.m3u8
+https://vkvsd33.mycdn.me/hls/2678113176249.m3u8/sig/yBA_Fho3vHY/expires/1658062765254/srcIp/45.84.121.97/clientType/13/srcAg/CHROME_ANDROID/mid/4441610136505/2678113176249_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 4 (Temporary)
 https://cricket-localiptv.ml/BANvsWI/ENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="SPORTS LIVE(2022)", Live Sports 5 (Temporary)
