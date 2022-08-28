@@ -1,4 +1,38 @@
 #EXTM3U
+Asia Cup
+#EXTM3U #EXTINF:-1 group-title="ASIA CUP 2022" ,A-SPORTS FHD 
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,ASTRO CRICKET 
+http://www.luckonline.eu:80/live/786786/786786/516.m3u8 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,CricLife 1 FHD 
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/49392.m3u8 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,Fox Sports 501 
+http://lilitv.xyz:80/user1/1user/35727 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,PTV SPORTS HD 
+http://www.luckonline.eu:80/live/786786/786786/498.m3u8 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,SKY SPORTS HUNDRED 
+http://www.luckonline.eu:80/live/786786/786786/505.m3u8 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,Star Sports 1 HD 
+http://103.179.246.243:8000/play/a00c 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,Star Sports 1HD 
+http://watchindia.net:8880/live/73352/40942/808.ts 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_1HD 
+http://stariptv.org:8080/hamza2022/123456/93634 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_2HD 
+http://103.147.162.240:81/play/a02c 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_SELECT_1HD 
+http://103.147.162.240:81/play/a021 
+#EXTINF:0 group-title="ASIA CUP 2022" ,SUPER ACTION 
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1410.m3u8 
+#EXTINF:0 group-title="ASIA CUP 2022" ,SUPPER CRICKET 
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,T-SPORTS HD(BDIX) 
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8 
+#EXTINF:-1 group-title="ASIA CUP 2022" ,WILLOW SPORTS HD(ALL LINK) 
+http://www.luckonline.eu:80/live/786786/786786/517.m3u8
+
+      Live sport
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://stream.serverbd247.com/hls/sky3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
