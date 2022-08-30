@@ -36,21 +36,21 @@ http://www.luckonline.eu:80/live/786786/786786/517.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://stream.serverbd247.com/hls/sky3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1553.m3u8
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-https://cricket.localiptv.tk/CRICKET_SERIES_LIVE1.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
-http://103.168.91.228/hp-tv.m3u8
+http://89.187.179.134:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8?token=SBsLAhEJEF5EAw8FAVVWAVQGCwcBVFMFU1FSBFNWCwECWgdTUAAKVFQUFBJLRUJRAFhmXlIQCgNXAFsYEEdLXEFmCgdAWxBRVhQUEkxYXVFDDwkbFEJZVkEKQQYKCwoKERVBBhoVVxYIV1RvXFRGXQJQGw1YR1xeTxIMWm1WXVRSVwdBWEMCRkoUUUNIEwpaFFlVGxRQWUYRURdREAgaCAUKVkFOQ1ELE1hMQkETChYjcRsbFFdIRgZeEF1dXBoDEVRQFlpDHkYPRWdCXUJERgRUVFJEEAoQUhJPFl9TQGZQVg0NBwJGDQlYSxICEwMDVBcVFVtdXlsXXxFrQltcGwkbUVZTUgNGGw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
-https://football-localiptv.ml/PREMIER_LEAGUE_LIVE_2.m3u8
+http://dangguli.live:8080/TenSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
-https://football-localiptv.ml/LaLiga_CHANNEL_1.m3u8
+http://dangguli.live:8080/TenSports/tracks-v1a1/2022/08/30/12/13/16-06000.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+http://tv.ebox.live:8081/thunderbd/1/l_2529720_10506005_710.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
+http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
 http://103.24.96.74/stream/tensports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
