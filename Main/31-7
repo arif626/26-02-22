@@ -13,7 +13,7 @@ http://www.luckonline.eu:80/live/786786/786786/498.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022" ,SKY SPORTS HUNDRED 
 http://www.luckonline.eu:80/live/786786/786786/505.m3u8 
 #EXTINF:-1 group-title="ASIA CUP 2022" ,Star Sports 1 HD 
-http://103.179.246.243:8000/play/a00c 
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 group-title="ASIA CUP 2022" ,Star Sports 1HD 
 http://watchindia.net:8880/live/73352/40942/808.ts 
 #EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_1HD 
@@ -21,7 +21,7 @@ http://stariptv.org:8080/hamza2022/123456/93634
 #EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_2HD 
 http://103.147.162.240:81/play/a02c 
 #EXTINF:-1 group-title="ASIA CUP 2022" ,STAR_SPORTS_SELECT_1HD 
-http://103.147.162.240:81/play/a021 
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:0 group-title="ASIA CUP 2022" ,SUPER ACTION 
 http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1410.m3u8 
 #EXTINF:0 group-title="ASIA CUP 2022" ,SUPPER CRICKET 
@@ -36,9 +36,9 @@ http://www.luckonline.eu:80/live/786786/786786/517.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 https://live.tvdhaka.com/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
-http://dangguli.live:8080/TSports/embed.html?token=e897b00e74e26eabb77b973078934ce1664ea286-2486c393e216a1e811576ee73a5b5060-1662026630-1662015830
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-http://dangguli.live:8080/TSportsHD/embed.html?token=b6104f43fbbbdf675981218d5d7a26ff79219481-b575f3bc680a8ad6475b65474fa705d7-1662026685-1662015885
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 http://dangguli.live:8080/TenSports/tracks-v1a1/2022/09/01/07/10/32-06000.ts?token=5848b58be9079a5d6980e7b2ff5c7675136d8805-5a7c73308896e77b4b0372c95ff96a4e-1662026756-1662015956
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
