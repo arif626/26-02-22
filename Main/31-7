@@ -38,7 +38,7 @@ http://103.179.246.243:8000/play/a026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1662672401/ei/sQkaY7frHNiNkgba9L6IDg/ip/20.66.97.53/id/vSHelsYpvkc.2/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/hls_chunk_host/rr1---sn-nnqcq-n2ql.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/373750/mh/dJ/mip/103.106.239.75/mm/44/mn/sn-nnqcq-n2ql/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1662661004/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAKFksDg14BrxVkUuTi4a0H2DJl_v8Fx2LVF_bsZF90vhAiEA3LQ7FfpYSR-0Htw3rFpj5T-lencXh18Hg95ToWQil8w%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIga5FaGxOvlfhUej8E_gNYePfGSYrSjWiqeRne84pZuW8CID20wdOM_ZIIC9l2iIjWshYSL6HFpeCx81jmlI8j-yq_/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+http://208.86.19.13:81/715.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 http://103.78.255.178:8080/starselect1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
