@@ -48,7 +48,7 @@ http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD2",UTV Action(BD2)
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD2",UTV MOVIES HD(BD2)
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD2",UTV MOVIES HD(BD2)
 http://208.86.19.13:81/723.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BD2",Colors Cineplex(BD2)
@@ -100,6 +100,10 @@ http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
 http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BDCable Live", Colors Bangla
 http://jupiter.bdcabletv.com/ColorsBangla_NC/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BDCable Live", Colors Bangla Cinema
+http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BDCable Live",Zee Bangla Cinema
+http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="BDCable Live", Sony Aat
 http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="BDCable Live", Sony Max HD
