@@ -183,7 +183,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Jagobd",Channel 9(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Jagobd",Nexus TV HD(Jagobd)
-https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Jagobd",Somoy TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Jagobd",Independent TV(Jagobd)
