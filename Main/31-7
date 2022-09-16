@@ -264,6 +264,78 @@ http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
 http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD Cable TV",Sony Max(BD Cable TV)
 http://103.162.136.235:4500/play/a01b/index.m3u8
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="http://sldhnecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Akash Aath
+http://208.86.19.13:81/902.stream/index.m3u8
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/M6GyIvI.png",Zee Bangla Cinema
+http://208.86.19.13:81/708.stream/index.m3u8
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",Sony BBC Earth HD
+http://103.179.246.243:8000/play/a015
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/XBz4I65.png",Discovery Science
+http://103.179.246.243:8000/play/a01k
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/6uHly3s.png",Discovery Turbo
+http://103.179.246.243:8000/play/a01l
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/5OzuEyR.png",History Channel 18 HD
+http://103.179.246.243:8000/play/a013
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/m7Cl2M9.png",National Geographic HD
+http://103.179.246.243:8000/play/a00x
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/MCyL9wX.png",National Geographic Wild HD
+http://103.179.246.243:8000/play/a00i
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery HD
+http://103.179.246.243:8000/play/a00y
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/ELjuMyU.png",TLC HD
+http://103.179.246.243:8000/play/a027
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/NQAWK6A.png",& Flix HD
+http://103.179.246.243:8000/play/a00p
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/AMiJBP6.png",& Prive HD
+http://103.179.246.243:8000/play/a01d
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/3i2U8HH.png",Sony Pix HD
+http://103.179.246.243:8000/play/a016
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN+ HD
+http://103.179.246.243:8000/play/a00u
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",MNX HD
+http://103.179.246.243:8000/play/a01h
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMFEiH2SUl61zuJ9uhIWAZ6qhxTEWDXMR-v1_1zpnZHmv__CJGBDGQu0&s=10",Star World HD
+http://103.179.246.243:8000/play/a00b
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/STAR_World_Premiere.jpg",Star World Premiere HD
+http://103.179.246.243:8000/play/a00a
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/EDPdahO.png",Star Movies HD
+http://103.179.246.243:8000/play/a00v
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Star_Movies_Select_HD.png",Star Movies Select HD
+http://103.179.246.243:8000/play/a00w
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/6a7pWRE.png",Sony Six HD
+http://103.179.246.243:8000/play/a00f
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/aO2GTAR.jpg",Sony Ten 1 HD
+http://103.179.246.243:8000/play/a00e
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://imgur.com/TCFDYyT.png",Sony ten 2 HD
+http://103.179.246.243:8000/play/a01a
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/K1rahTG.png",Sony Ten 3 HD
+http://103.179.246.243:8000/play/a00k
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/3ibgIMV.png",Star Sports 1 HD
+http://103.179.246.243:8000/play/a00c
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://imgur.com/NDVadMe.png",Star Sports 2 HD
+http://103.179.246.243:8000/play/a00d
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/TL2jAU6.png",Star Sports Select 1 HD
+http://103.179.246.243:8000/play/a018
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://imgur.com/rCa9a5j.png",Star Sports Select 2 HD
+http://103.179.246.243:8000/play/a019
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/Om9inz6.png",Cartoon Network (Ft Bappi)
+http://103.179.246.243:8000/play/a01w
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://imgur.com/NmBF00q.png",Disney Channel (Ft Bappi)
+http://103.179.246.243:8000/play/a01y
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/dlL02Rv.png",Sonic Nickeloden (Ft Bappi)
+http://103.179.246.243:8000/play/a021
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/i5J3zrE.png",Pogo (Ft Bappi)
+http://103.179.246.243:8000/play/a022
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/rm7OMLk.png",Nick (Ft Bappi)
+http://103.179.246.243:8000/play/a01z
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior (Ft Bappi)
+http://103.179.246.243:8000/play/a023
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/t0Ecro6.png",Hungama Tv (Ft Bappi)
+http://103.179.246.243:8000/play/a01x
+#EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery Kids (Ft Bappi)
+http://103.179.246.243:8000/play/a024
 
 SKY
 
