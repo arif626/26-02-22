@@ -18,11 +18,11 @@ http://194.233.77.24:5866/hls/shlive3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
-https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqMFWjfJpC17j3StY-AXo5z5ahEQvLL5rbWQEaDeB6DqgO1OrO6zOAagz3jbrATDEzRpOwRqiPsTgssgPkzVietg8030PQL0PiVHqCIEIwTAtv4SM8ysgFdJC1tkKrlyDCPEPdBIij-Xs_ehkPV6CWdubLa3yNdOQq10bOtqCwCRm4oIIzudp6HLJZxPpLE4bu25V7ElZYCDKudD-iY4FUHSdli4iYh9TdtTddP3BzCK1FRUUc-b9xUX1mYljUzoixVvOtLvyUpEjBVMjMjGDF8dw7X-I4zCTk5ZE3AR7skjo-_81O__OWrw2Ipuj2kIjzO4PTkj4ba0p154vwV_FD5HFfXmWT5XZYEVi_HKCa5oSM-HWmrzqS73GXtMJWM7AVB13NXblxbGHcdKLmbHDe_9E2mV6nkEeLrpeWL1n7FRzO_d4JS1rUoOt7hHw2wBrbSWRmDd473fzWCA0K6mq9kNuSgz_r7cViwnblixv54J2uQPPjz-etBmJd8gx8Djuz-18F7F59sgvOLVl7bsBnGyg1A8Bx8NVThagyyergvg7B8YImsCiM9qyfgHQf7vmIKc9CW7El3insvDqBBdhFuJKJiHWgFLyqAhPqhf_doPA4XUEErxCdLtSDzZi5wNprlSqM5mxr1t5jutVOQWA6CSYTEAsn1TsNWDCcPoRequPkrNhJ__w7smvrO8K5eDaBfb-6-di9EvoC4pu0-2jycEksZhRoGoEob9Si7h1B5tKOF2GV9SFCvxbmvk2ejGYSfvNx8far8tPHQ2cUosp1b5v-SdxOZlmFxscK6nAW1TdH3N3hXFreFBrwU-rieoCQyL_cn4-hKjQPKqFvsiFCIDw8MKjWh6fgSe1wkFoa9q2NqP5ZfWWNv8P_iGAnMEvWMoi0-XGgz7kxYsR_kwWty4MKsgASoJdXMtd2VzdC0yMNIE.m3u8
+http://edge.thunderbd.com:8081/roarzone/102/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
 http://edge.thunderbd.com:25461/live/tvappsports/roarzone/25.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
-http://edge.thunderbd.com:25461/live/tvappsports/roarzone/25.m3u8?
+http://edge.thunderbd.com:8081/roarzone/102/chunks.m3u8?
 
 
 BANGLA CHANNEL
