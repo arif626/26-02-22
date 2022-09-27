@@ -544,7 +544,7 @@ http://dangguli.live:8080/DeeptoTV/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", 1-&flix HD
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title=",💗 favourites Channel 💗", 1-&flix HD
 http://103.99.249.107:81/play/a00x
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", 10-Color Bangla HD
 http://103.99.249.107:81/play/a00j
