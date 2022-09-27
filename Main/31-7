@@ -39,11 +39,12 @@ http://194.233.77.24:5866/hls/shlive3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
-http://edge.thunderbd.com:8081/roarzone/102/chunks.m3u8?nimblesessionid=46162852&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIyIDY6Mjg6NTMgUE0maGFzaF92YWx1ZT1LdWlEbXBDQVJ2b09pQ2xLN3Z3eDdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ==?
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
-http://edge.thunderbd.com:25461/live/tvappsports/roarzone/25.m3u8?
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
-http://edge.thunderbd.com:8081/roarzone/102/chunks.m3u8?nimblesessionid=46162852&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIyIDY6Mjg6NTMgUE0maGFzaF92YWx1ZT1LdWlEbXBDQVJ2b09pQ2xLN3Z3eDdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ==?
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
 
 
 BANGLA CHANNEL
