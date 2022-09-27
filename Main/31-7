@@ -11,13 +11,17 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3246
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",BEIN 4
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3247
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",BEIN 5
-
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49383
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",BEIN 6
-
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49384
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",BEIN 7
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",BEIN P
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49385
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",BEIN P 1
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49685
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",BEIN P 2
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49386
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",BEIN P 3
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49686
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
