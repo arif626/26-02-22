@@ -161,13 +161,13 @@ https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 BD CABLE TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD Cable TV",Jalsha Movies HD(BD Cable TV)
-http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
+http://103.99.249.107:81/play/a00k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="BD Cable TV",Sony TV(BD Cable TV)
-http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136583
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD Cable TV",Star Movies(BD Cable TV)
-http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136629
 #EXTINF:-1 tvg-logo="" group-title="BD Cable TV",And Flix(BD Cable TV)
-http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
+http://103.162.136.235:4500/play/a00c/43630908.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD Cable TV",Sony Max(BD Cable TV)
 http://103.162.136.235:4500/play/a01b/index.m3u8
 #EXTINF:-1 group-title="BD Cable TV" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath
