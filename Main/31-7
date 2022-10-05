@@ -46,6 +46,21 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Flixhub",Gazi TV(Flixhub) 
+http://103.121.14.18/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Flixhub",ATN Bangla(Flixhub) 
+http://103.121.14.18/hls/atn.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Flixhub",Channel I(Flixhub) 
+http://103.121.14.18/hls/channeli.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Flixhub",Maasranga TV(Flixhub) 
+http://103.121.14.18/hls/masranga.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Flixhub",Banglavision(Flixhub) 
+http://103.121.14.18/hls/banglavision.m3u8
+
 JIO-TV
 
 
