@@ -262,6 +262,24 @@ http://103.121.14.18/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub) 
 http://103.121.14.18/hls/bbcworld.m3u8
 
+#EXTINF:-1 group-title="Flixhub" tvg-logo="",Trans Tv HD (Flixhub)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w487287366_b544100_sleng.m3u8
+
+#EXTINF:-1 group-title="Flixhub" tvg-logo="",M Tv 80s HD (Flixhub)
+http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Flixhub" tvg-logo="",M Tv 90s HD (Flixhub)
+http://85.17.17.249/mtv_rocks/index.m3u8
+
+#EXTINF:-1 group-title="Flixhub" tvg-logo="",M Tv Hits HD (Flixhub)
+http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Flixhub" tvg-logo="", Discovery Bangla HD (Flixhub)
+http://hbstreamer.tk/play.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="Flixhub" tvg-logo="", Comming Sun (Flixhub)
+
+
 JIO-TV
 
 
