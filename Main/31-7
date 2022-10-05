@@ -134,79 +134,79 @@ http://103.162.136.235:4500/play/a01m/index.m3u8
 http://103.162.136.235:4500/play/a02m/index.m3u8
 #EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Pix HD" ,Pix HD
 http://103.162.136.235:4500/play/a00m/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Pogo" ,Pogo
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Pogo" ,Pogo
 http://103.162.136.235:4500/play/a01i/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="RED SD" ,RED SD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="RED SD" ,RED SD
 http://103.162.136.235:4500/play/a01u/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="RT Sports" ,RT Sports
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="RT Sports" ,RT Sports
 http://103.162.136.235:4500/play/a03c/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Romedy Now" ,Romedy Now
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Romedy Now" ,Romedy Now
 http://103.162.136.235:4500/play/a009/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="SCI- FI" ,SCI- FI
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="SCI- FI" ,SCI- FI
 http://103.162.136.235:4500/play/a01v/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="SET HD" ,SET HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="SET HD" ,SET HD
 http://103.162.136.235:4500/play/a00g/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sab HD" ,Sab HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sab HD" ,Sab HD
 http://103.162.136.235:4500/play/a00t/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="SciFi HD" ,SciFi HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="SciFi HD" ,SciFi HD
 http://103.162.136.235:4500/play/a02s/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Six HD" ,Six HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Six HD" ,Six HD
 http://103.162.136.235:4500/play/a01a/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sonic" ,Sonic
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sonic" ,Sonic
 http://103.162.136.235:4500/play/a01k/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sony BBC Earth HD" ,Sony BBC Earth HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sony BBC Earth HD" ,Sony BBC Earth HD
 http://103.162.136.235:4500/play/a00l/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" ,Sony Ten 1 HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" ,Sony Ten 1 HD
 http://103.162.136.235:4500/play/a018/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" ,Sony Ten 2 HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" ,Sony Ten 2 HD
 http://103.162.136.235:4500/play/a00o/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" ,Sony Ten 3 HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" ,Sony Ten 3 HD
 http://103.162.136.235:4500/play/a01d/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Bharat HD" ,Star Bharat HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Bharat HD" ,Star Bharat HD
 http://103.162.136.235:4500/play/a00p/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Gold 2" ,Star Gold 2
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Gold 2" ,Star Gold 2
 http://103.162.136.235:4500/play/a00x/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Gold HD" ,Star Gold HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Gold HD" ,Star Gold HD
 http://103.162.136.235:4500/play/a00j/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" ,Star Gold Select HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" ,Star Gold Select HD
 http://103.162.136.235:4500/play/a00k/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Movies HD" ,Star Movies HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Movies HD" ,Star Movies HD
 http://103.162.136.235:4500/play/a005/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" ,Star Movies Select HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Movies Select HD" ,Star Movies Select HD
 http://103.162.136.235:4500/play/a006/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Plus HD" ,Star Plus HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Plus HD" ,Star Plus HD
 http://103.162.136.235:4500/play/a00d/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Select 1 HD" ,Star Select 1 HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Select 1 HD" ,Star Select 1 HD
 http://103.162.136.235:4500/play/a00v/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Select 2 HD" ,Star Select 2 HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Select 2 HD" ,Star Select 2 HD
 http://103.162.136.235:4500/play/a00w/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" ,Star Sports 1 HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" ,Star Sports 1 HD
 http://103.162.136.235:4500/play/a015/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" ,Star Sports 1 Hindi HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" ,Star Sports 1 Hindi HD
 http://103.162.136.235:4500/play/a017/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" ,Star Sports 2 HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" ,Star Sports 2 HD
 http://103.162.136.235:4500/play/a016/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Sports 3" ,Star Sports 3
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star Sports 3" ,Star Sports 3
 http://103.162.136.235:4500/play/a013/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star World HD" ,Star World HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star World HD" ,Star World HD
 http://103.162.136.235:4500/play/a019/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star World Premier HD" ,Star World Premier HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Star World Premier HD" ,Star World Premier HD
 http://103.162.136.235:4500/play/a014/index.m3u8
 #EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Sundance HD" ,Sundance HD
 http://103.162.136.235:4500/play/a02u/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Super Sports HD" ,Super Sports HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Super Sports HD" ,Super Sports HD
 http://103.162.136.235:4500/play/a02a/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="TLC" ,TLC
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="TLC" ,TLC
 http://103.162.136.235:4500/play/a02z/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="TLC HD" ,TLC HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="TLC HD" ,TLC HD
 http://103.162.136.235:4500/play/a001/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Utv Movies" ,Utv Movies
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Utv Movies" ,Utv Movies
 http://103.162.136.235:4500/play/a00z/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" ,Zee Cafe HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" ,Zee Cafe HD
 http://103.162.136.235:4500/play/a003/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" ,Zee Cinema HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" ,Zee Cinema HD
 http://103.162.136.235:4500/play/a00h/index.m3u8
-#EXTINF:-1 group-title=""BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Zee TV HD" ,Zee TV HD
+#EXTINF:-1 group-title="BD Cable-1" tvg-id="(no tvg-id)" tvg-name="Zee TV HD" ,Zee TV HD
 http://103.162.136.235:4500/play/a00e/index.m3u8
 
 
