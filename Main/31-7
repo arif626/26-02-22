@@ -275,7 +275,7 @@ http://85.17.17.249/mtv_rocks/index.m3u8
 http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="", Discovery Bangla HD (Flixhub)
-http://hbstreamer.tk/play.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
+http://hbstreamer.tk/live.php?c=Discovery_Channel_Bengali&q=250&e=.m3u8
 
 #EXTINF:-1 group-title="Flixhub" tvg-logo="", Comming Sun (Flixhub)
 
