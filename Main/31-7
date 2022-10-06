@@ -2256,8 +2256,10 @@ http://103.99.249.107:81/play/a03n
 http://103.99.249.107:81/play/a03h
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_SONY YAY BANGLA
 http://103.99.249.107:81/play/a02u
-#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_STAR GOLD
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_STAR WORLD HD
 http://103.99.249.107:81/play/a02n
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_STAR GOLD
+http://50.7.237.4:8080/STARGOLD2/index.m3u8
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_STAR JALSHA
 http://103.99.249.107:81/play/a030
 #EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_STAR PLUS
