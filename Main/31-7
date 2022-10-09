@@ -43,6 +43,7 @@ http://103.106.2.152:13456/btv.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
 https://tv.googledrivelinks.com/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
+https://tv.googledrivelinks.com/stream.php?key=Jio_Cricket/Jio_Cricket_1200-1665339322000.key
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
