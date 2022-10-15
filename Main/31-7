@@ -2091,6 +2091,20 @@ http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
 #EXTINF:-1,tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",Sony Yah
 http://50.7.237.4:8080/SONYYAY/index.m3u8
 
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",MTV BEATS
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",MTV HD
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",STAR GOLD HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+
+
 ------------------------------------------------------------------------
 
 TATA PAY
