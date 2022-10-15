@@ -2044,7 +2044,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 favourites Channel
-
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",LIVE MOVIES HINDI 📡(LATEST)LINK 1
+https://3uog.short.gy/bj_tech_knowledge_24.mpd
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",LIVE MOVIES HINDI 📡(LATEST)Link 2
+https://3uog.short.gy/Live_movies_bj_tech.mpd
 #EXTINF:-1,tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", Utsav Plus
 http://50.7.237.4:8080/STARPLUS/index.m3u8
 #EXTINF:-1,tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",Zee Tv
