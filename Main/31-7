@@ -6,9 +6,9 @@ Live sport
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://iptv.hplink.com.bd:8080/hls/sports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
-http://103.99.249.107:81/play/a02k
+http://103.143.235.50:8080/ch4/ch4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-https://localiptv.tk/LIVE_SPORTS_2.m3u8
+http://50.7.237.4:8080/PTVSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 http://103.99.249.107:81/play/a02m
 
