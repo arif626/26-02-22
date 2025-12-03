@@ -4,7 +4,7 @@
       "id": 1,
       "name": "PTV Sports",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
-      "streamUrl": "http://66.102.120.18:8000/play/a04w/index.m3u8",
+      "streamUrl": "https://proxy.nettv.fun/dug/stream.php?id=ab37e7c48196b3c138170d469138f380&e=.m3u8",
       "category": "sports",
       "description": "Pakistan's premier sports channel",
       "language": "Urdu/English",
@@ -353,4 +353,5 @@
       "isPremium": false
     }
   ]
+
 }
