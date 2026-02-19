@@ -385,6 +385,39 @@
       "isActive": true,
       "isPremium": false
     },
+	{
+      "id": 25,
+      "name": "Colors Cineplex",
+      "logoUrl": "https://i.ibb.co/h7T6MCW/20240803-110652.png",
+      "streamUrl": "http://172.27.27.27:2026/Colors_Cineplex_HD/index.m3u8",
+      "category": "bollywood",
+      "description": "Bollywood movies channel",
+      "language": "Hindi",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 25,
+      "name": "Star Gold",
+      "logoUrl": "https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png",
+      "streamUrl": "http://172.27.27.27:2026/Star_Gold_HD/index.m3u8",
+      "category": "bollywood",
+      "description": "Bollywood movies channel",
+      "language": "Hindi",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 25,
+      "name": "Star Gold Thrills",
+      "logoUrl": "https://i.imgur.com/azqtpYh.png",
+      "streamUrl": "http://172.27.27.27:2026/Star_Gold_Thrills/index.m3u8",
+      "category": "bollywood",
+      "description": "Bollywood movies channel",
+      "language": "Hindi",
+      "isActive": true,
+      "isPremium": false
+    },
     {
       "id": 26,
       "name": "BOLLYWOOD",
