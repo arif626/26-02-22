@@ -297,7 +297,7 @@
       "isActive": true,
       "isPremium": false
     },
-		{
+	{
       "id": 21,
       "name": "Asian TV",
       "logoUrl": "https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024",
@@ -308,7 +308,7 @@
       "isActive": true,
       "isPremium": false
     },
-		{
+	{
       "id": 21,
       "name": "Channel I",
       "logoUrl": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261",
@@ -319,12 +319,33 @@
       "isActive": true,
       "isPremium": false
     },
-	
+	{
+      "id": 21,
+      "name": "NTV",
+      "logoUrl": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
+      "streamUrl": "http://172.27.27.27:2026/NTV/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    }
     {
       "id": 22,
       "name": "Enter10 Bangla",
       "logoUrl": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",
       "streamUrl": "http://172.27.27.27:2026/ENTER_10_BANGLA/index.m3u8",
+      "category": "indian_bangla",
+      "description": "Popular Bengali entertainment channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 22,
+      "name": "Colors Bangla",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png",
+      "streamUrl": "http://172.27.27.27:2026/Colors_Bangla/index.m3u8",
       "category": "indian_bangla",
       "description": "Popular Bengali entertainment channel",
       "language": "Bangla",
@@ -402,6 +423,50 @@
       "name": "24/7 MOTU PATLU",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png",
       "streamUrl": "http://172.27.27.27:2026/24/7_MOTUPATLU/index.m3u8",
+      "category": "kids",
+      "description": "24/7 Motu Patlu cartoon channel",
+      "language": "Hindi",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 29,
+      "name": "CARTOON NETWORK",
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png",
+      "streamUrl": "http://172.27.27.27:2026/CARTOON_NETWORK/index.m3u8",
+      "category": "kids",
+      "description": "24/7 Motu Patlu cartoon channel",
+      "language": "Hindi",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 29,
+      "name": "Nick",
+      "logoUrl": "https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png",
+      "streamUrl": "http://172.27.27.27:2026/Nick/index.m3u8",
+      "category": "kids",
+      "description": "24/7 Motu Patlu cartoon channel",
+      "language": "Hindi",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 29,
+      "name": "Sony YAY",
+      "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+      "streamUrl": "http://172.27.27.27:2026/Sony_YAY/index.m3u8",
+      "category": "kids",
+      "description": "24/7 Motu Patlu cartoon channel",
+      "language": "Hindi",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 29,
+      "name": "Sonic",
+      "logoUrl": "https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png",
+      "streamUrl": "http://172.27.27.27:2026/sonic/index.m3u8",
       "category": "kids",
       "description": "24/7 Motu Patlu cartoon channel",
       "language": "Hindi",
