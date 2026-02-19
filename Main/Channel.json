@@ -231,6 +231,95 @@
       "isActive": true,
       "isPremium": false
     },
+	{
+      "id": 21,
+      "name": "BTV",
+      "logoUrl": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
+      "streamUrl": "http://172.27.27.27:2026/BTV/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 21,
+      "name": "BTV NEWS",
+      "logoUrl": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
+      "streamUrl": "http://172.27.27.27:2026/BTV_News/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 21,
+      "name": "MY TV",
+      "logoUrl": "https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",
+      "streamUrl": "http://172.27.27.27:2026/My_TV/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 21,
+      "name": "Banglavision",
+      "logoUrl": "https://s4.gifyu.com/images/image5c0bfa6b281be803.png",
+      "streamUrl": "http://172.27.27.27:2026/Bangla_Vision/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 21,
+      "name": "RTV",
+      "logoUrl": "https://s4.gifyu.com/images/image29282f9d45a183d6.png",
+      "streamUrl": "http://172.27.27.27:2026/RTV/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+	{
+      "id": 21,
+      "name": "Maasranga Tv",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",
+      "streamUrl": "http://172.27.27.27:2026/Maasranga_TV/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+		{
+      "id": 21,
+      "name": "Asian TV",
+      "logoUrl": "https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024",
+      "streamUrl": "http://172.27.27.27:2026/Asian_TV/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+		{
+      "id": 21,
+      "name": "Channel I",
+      "logoUrl": "https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261",
+      "streamUrl": "http://172.27.27.27:2026/Channel_I/index.m3u8",
+      "category": "bangladeshi",
+      "description": "Bangladeshi news channel",
+      "language": "Bangla",
+      "isActive": true,
+      "isPremium": false
+    },
+	
     {
       "id": 22,
       "name": "Enter10 Bangla",
