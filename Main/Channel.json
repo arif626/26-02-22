@@ -528,6 +528,17 @@
       "isActive": true,
       "isPremium": false
     },
+	{
+      "id": 31,
+      "name": "Animal Planet",
+      "logoUrl": "https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png",
+      "streamUrl": "http://172.27.27.27:2026/Animal-Planet/index.m3u8",
+      "category": "documentary",
+      "description": "Nature and wildlife documentaries",
+      "language": "English",
+      "isActive": true,
+      "isPremium": false
+    },
     {
       "id": 32,
       "name": "Peace TV Bangla",
