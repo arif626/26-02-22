@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1,tvg-logo="img/channels/images.jpeg" group-title="FIFA", FIFA-1
+http://172.27.27.27:8989/FIFA-1/index.m3u8
+
+#EXTINF:-1,tvg-logo="img/channels/images.jpeg" group-title="FIFA",,FIFA-2
+http://172.27.27.27:8989/FIFA-2/index.m3u8
+
+#EXTINF:-1,tvg-logo="img/channels/images.jpeg" group-title="FIFA",FIFA-3
+http://172.27.27.27:8989/FIFA-3/index.m3u8
+
+#EXTINF:-1,tvg-logo="img/channels/images.jpeg" group-title="FIFA",FIFA-4
+http://172.27.27.27:8989/FIFA-4/index.m3u8
+
+#EXTINF:-1,tvg-logo="img/channels/images.jpeg" group-title="FIFA",FIFA-5
+http://172.27.27.27:8989/FIFA-5/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/S-1.png" group-title="LIVE", LIVE-1
+http://172.27.27.27:8989/LIVE-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/S-1.png" group-title="LIVE", LIVE-2
+http://172.27.27.27:8989/LIVE-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/S-1.png" group-title="LIVE", LIVE-3
+http://172.27.27.27:8989/LIVE-3/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/S-1.png" group-title="LIVE", LIVE-4
+http://172.27.27.27:8989/LIVE-4/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/S-1.png" group-title="LIVE", LIVE-5
+http://172.27.27.27:8989/LIVE-5/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/S-1.png" group-title="LIVE", LIVE-6
+http://172.27.27.27:8989/LIVE-6/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/S-1.png" group-title="LIVE", LIVE-7
+http://172.27.27.27:8989/LIVE-7/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/T SPORTS.png" group-title="SPORTS", T SPORTS
+http://172.27.27.27:8989/T_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/PTV SPORTS HD.png" group-title="SPORTS", PTV SPORTS HD
+http://172.27.27.27:8989/PTV_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/SONY SPORTS1 HD.png" group-title="SPORTS", SONY TEN-1
+http://172.27.27.27:8989/SONY_TEN-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/SONY SPORTS2 HD.png" group-title="SPORTS", SONY TEN-2
+http://172.27.27.27:8989/SONY_TEN-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/SONY SPORTS5 HD.png" group-title="SPORTS", SONY TEN-5
+http://172.27.27.27:8989/SONY_TEN-5/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/STAR SPORTS 1 HD.png" group-title="SPORTS", STAR SPORTS 1 HD
+http://172.27.27.27:8989/Star_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/STAR SPORTS 2 HD.png" group-title="SPORTS", STAR SPORTS 2 HD
+http://172.27.27.27:8989/Star_Sports_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/STAR SPORTS SELECT 1 HD.png" group-title="SPORTS", STAR SPORTS SELECT 1 HD
+http://172.27.27.27:8989/STAR_SPORTS_SELECT_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="img/channels/STAR SPORTS SELECT 2 HD.png" group-title="SPORTS", STAR SPORTS SELECT 2 HD
+http://172.27.27.27:8989/STAR_SPORTS_SELECT_2/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
