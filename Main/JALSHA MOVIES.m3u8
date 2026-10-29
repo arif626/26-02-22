@@ -1,2 +1,13 @@
 #EXTM3U
-http://starshare.live:8080/live/178625032022PL/33669988CR/98884.m3u8
+#EXT-X-TARGETDURATION:5
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:35838
+#EXT-X-PROGRAM-DATE-TIME:2026-10-29T17:33:35.568Z
+#EXTINF:5.000,
+https://livetv.shamon-cable.net/proxy/proxy.php?id=9877f8226dfbbf42de7fd36edd47e64e2dee
+#EXTINF:5.000,
+https://livetv.shamon-cable.net/proxy/proxy.php?id=868a9e5540a7465338436e0167130ec6ef67
+#EXTINF:5.000,
+https://livetv.shamon-cable.net/proxy/proxy.php?id=cf3106e71758294eb90a3e524e2af3e4e6fc
+#EXTINF:5.000,
+https://livetv.shamon-cable.net/proxy/proxy.php?id=8adf2a3ea15bdbb426a0c1828b6b60e6c180
